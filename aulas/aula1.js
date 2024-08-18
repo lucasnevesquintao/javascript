@@ -83,7 +83,7 @@ const meuArray = [
 
 const numeros = [10, 20, 30, 40]
 const usuarios = ["Lucas", "Paige Heyn"]
-                   /*0*/      /*1*/
+/*0*/      /*1*/
 console.log(meuArray)
 console.log(numeros)
 console.log(usuarios)
