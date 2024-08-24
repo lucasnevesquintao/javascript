@@ -1,3 +1,9 @@
+/*
+    Estrutura de Repetição - LOOP
+        - FOR IN
+        - Usado para iterar Objetos
+*/
+
 const user = {
     name: 'Lucas',
     age: 15,
